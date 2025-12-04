@@ -1,6 +1,6 @@
 # 🌐 Base URL
- Base Url Frontend: https://front-end-innventory.vercel.app/
- Base Url Backend: 
+# Base Url Frontend: https://front-end-innventory.vercel.app/
+# Base Url Backend: https://se2-midterm-project-osie.onrender.com/
 
 
 ## 📊 Products API
